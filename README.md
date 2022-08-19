@@ -39,6 +39,12 @@
 |:--:|:--:|
 |<img src="https://i.imgur.com/GOT8pGE.png" width="450">|<img src="https://i.imgur.com/mZfpg4X.png" width="450">|
 
+<div align="center" dir="auto">
+<p dir="auto">
+<sub>이미지 출처: play.google.com/store/apps/details?id=com.snownaul.baseballgame&hl=en&gl=US<sub>
+</p>
+</div>
+
 ## 💻 실행 화면
 
 | 사용자 승리 | 컴퓨터 승리 | 잘못된 입력 |
